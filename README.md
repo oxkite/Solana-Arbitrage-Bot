@@ -1,5 +1,3 @@
-# [📞](https://t.me/daveex0086)[☎](https://wa.me/14072801765)
-
 # Solana Arbitrage Bot Architecture
 
 ## DEXs supported
